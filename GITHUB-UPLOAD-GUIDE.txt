@@ -1,0 +1,19 @@
+WAITWISE V2 - GITHUB UPLOAD
+
+1. Extract this ZIP on your desktop.
+2. Open the extracted WaitWise-V2-Clean folder.
+3. Upload the CONTENTS of this folder to your GitHub repository root.
+4. Do NOT create a new backend folder while inside backend.
+5. The repository root should contain:
+   backend/
+   frontend/
+   docker-compose.yml
+   .gitignore
+   README.md
+   BUGFIX-SUMMARY.md
+   SECTION-1-TESTING.md
+
+Correct rule:
+- At repository root, create/upload backend once.
+- Inside backend, create models, ml, database as direct folders only.
+- Never type backend/models while already inside backend in a file-creation UI.
